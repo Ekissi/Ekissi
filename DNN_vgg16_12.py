@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 10 18:47:46 2024
-
-@author: ASUS
-"""
-
 import os
 import numpy as np
 #import skimage
